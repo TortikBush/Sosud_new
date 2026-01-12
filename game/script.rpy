@@ -10,7 +10,7 @@ define e = Character('Эйлин', color="#c8ffc8")
 
 # Игра начинается здесь:
 label start:
-    scene bg room 
+    scene bg room
 
     show  eileen happy
 
